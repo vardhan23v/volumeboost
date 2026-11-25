@@ -1,3 +1,5 @@
+<p align="center"><img src="icon.png" width="160" alt="VolumeBoost logo"></p>
+
 # VolumeBoost
 
 A small, free macOS app that makes your Mac **louder than its normal 100% maximum**: up to 400%.
