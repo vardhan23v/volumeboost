@@ -1,0 +1,4 @@
+.build/
+VolumeBoost.app/
+.DS_Store
+.swiftpm/
